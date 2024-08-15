@@ -3,18 +3,17 @@ This project presents a comprehensive analysis of the cosmetics market using a d
 
 # Dataset
 The dataset, cosmetic_dataset.xlsx, contains detailed information on cosmetic products, including:
-
-Price: The cost of each product, allowing for an analysis of pricing strategies and market positioning.
-Category: Different categories like lips, eyes, face, skincare, and hair, helping to understand which segments dominate the market.
-Rating: Customer ratings, providing insights into overall product satisfaction.
-Brand: Information about different brands and their product lines.
-Sales Figures: Data on product sales, enabling the analysis of revenue distribution across categories.
+1.Price: The cost of each product, allowing for an analysis of pricing strategies and market positioning.
+2.Category: Different categories like lips, eyes, face, skincare, and hair, helping to understand which segments dominate the market.
+3.Rating: Customer ratings, providing insights into overall product satisfaction.
+4.Brand: Information about different brands and their product lines.
+5.Sales Figures: Data on product sales, enabling the analysis of revenue distribution across categories.
 Key Insights
-Price Distribution: The analysis reveals a right-skewed price distribution, with most products priced lower, and a few high-end products.
-Category Representation: The "lips" and "eyes" categories are the most prevalent, while "hair" and "face" are less represented, indicating market focus and consumer demand.
-Customer Satisfaction: Most products receive high ratings, particularly in the "eyes" and "lips" categories, although the "face" category shows room for improvement.
-Brand Analysis: Sephora Collection leads with the most extensive product line, with other brands like Anastasia Beverly Hills and Too Faced also having a strong presence.
-Sales Analysis: The body category generates the highest sales, with eyes and skincare also performing well. Specific subcategories within the body category dominate revenue, suggesting targeted consumer preferences.
+6.Price Distribution: The analysis reveals a right-skewed price distribution, with most products priced lower, and a few high-end products.
+7.Category Representation: The "lips" and "eyes" categories are the most prevalent, while "hair" and "face" are less represented, indicating market focus and consumer demand.
+8.Customer Satisfaction: Most products receive high ratings, particularly in the "eyes" and "lips" categories, although the "face" category shows room for improvement.
+9.Brand Analysis: Sephora Collection leads with the most extensive product line, with other brands like Anastasia Beverly Hills and Too Faced also having a strong presence.
+10.Sales Analysis: The body category generates the highest sales, with eyes and skincare also performing well. Specific subcategories within the body category dominate revenue, suggesting targeted consumer preferences.
 # Analysis & Visualization
 The project includes several charts and visualizations to represent the data insights effectively. These include:
 
