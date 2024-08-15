@@ -28,9 +28,13 @@ Key Insights
 The project includes several charts and visualizations to represent the data insights effectively. These include:
 
 Price distribution histograms.
+
 Frequency distribution of product categories.
+
 Average ratings across different categories and subcategories.
+
 Scatter plots showing the relationship between price and ratings.
+
 Bar charts comparing product distribution and sales across different countries.
 # Conclusion
 1.The analysis of the product data reveals several key insights into the cosmetics market. The price distribution is notably skewed, with most products priced lower and a few significantly higher, indicating a diverse pricing strategy across the industry. Product category analysis shows that "lips" and "eyes" are the most represented, suggesting these areas dominate the market. Most products maintain high ratings, particularly in subcategories, reflecting overall customer satisfaction. However, the "face" category shows room for improvement with slightly lower average ratings.
