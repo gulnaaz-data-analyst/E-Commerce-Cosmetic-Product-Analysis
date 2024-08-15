@@ -3,6 +3,7 @@ This project presents a comprehensive analysis of the cosmetics market using a d
 
 # Dataset
 The dataset, cosmetic_dataset.xlsx, contains detailed information on cosmetic products, including:
+
 1.Price: The cost of each product, allowing for an analysis of pricing strategies and market positioning.
 
 2.Category: Different categories like lips, eyes, face, skincare, and hair, helping to understand which segments dominate the market.
