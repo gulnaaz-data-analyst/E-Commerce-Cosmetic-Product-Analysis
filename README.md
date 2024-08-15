@@ -41,4 +41,5 @@ Bar charts comparing product distribution and sales across different countries.
 
 
 4.Sales data reveal that the body category significantly outperforms other categories, indicating a strong consumer demand in this segment. Eyes and skincare categories also contribute substantial revenue, underscoring their popularity. In contrast, the face and lips categories, while still showing steady demand, generate more moderate sales figures. Notably, within the body category, a specific subcategory dominates sales, suggesting that brands should focus on expanding offerings and marketing efforts in this area to capitalize on consumer interest.
+
 In conclusion, while the cosmetics market shows strong customer satisfaction and diverse product offerings, there are opportunities for growth. Improving product quality in underperforming categories, leveraging consumer trends, and focusing on high-revenue subcategories can drive higher market penetration and revenue generation.
